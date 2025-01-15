@@ -14,10 +14,70 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppCall.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppCall.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ASE_Assignment.AppCanvas.yml",
       "output": {
         ".html": {
           "relative_path": "api/ASE_Assignment.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppClear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppClear.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppElse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppElse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppEnd.html"
         }
       },
       "version": ""
@@ -64,10 +124,40 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppRect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppReset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppReset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ASE_Assignment.AppStoredProgram.yml",
       "output": {
         ".html": {
           "relative_path": "api/ASE_Assignment.AppStoredProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.AppTriangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppTriangle.html"
         }
       },
       "version": ""
@@ -108,6 +198,16 @@
       "output": {
         ".html": {
           "relative_path": "api/ASE_Assignment.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment.WriteClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.WriteClass.html"
         }
       },
       "version": ""
